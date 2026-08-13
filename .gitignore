@@ -1,0 +1,12 @@
+# Build outputs
+build/
+cmake-build-*/
+*.o
+*.out
+
+# IDE files
+.qtcreator/
+*.user
+
+# Old demonstration video
+send-arp_demo.mp4
